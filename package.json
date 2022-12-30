@@ -15,7 +15,7 @@
     "error-handler": "^1.0.0",
     "errorhandler": "^1.5.1",
     "express": "^4.17.1",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "morgan": "^1.9.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
